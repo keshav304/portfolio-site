@@ -4,9 +4,7 @@ import hackerrank from "../skills/hackerrank.svg";
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
-    var occupation = data.occupation;
-    var description = data.description;
-    var city = data.address.city;
+
     var networks = data.social.map(function (network) {
       return (
         <li  key={network.name}>
@@ -70,7 +68,7 @@ const Header = ({ data }) => {
           {networks}
           <li key="hackerrank">
           <a target="_blank" rel="noreferrer" href={"https://www.hackerrank.com/keshavjhaa2678"}>
-             <img style={{backgroundColor:"white"}} src={hackerrank}/>
+             <img alt="hackerrank" style={{backgroundColor:"white"}} src={hackerrank}/>
           </a>
         </li>
           </ul>
