@@ -1,0 +1,15 @@
+.submit {
+  background-color: black;
+  border-radius: 5px;
+  padding: 20px;
+}
+.skills {
+  margin-bottom: 10px;
+}
+.skills > div {
+  font-size:20px;
+  margin-bottom: 15px;
+}
+.skills > img {
+  margin-right: 10px;
+}

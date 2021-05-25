@@ -1,0 +1,78 @@
+{
+  "main": {
+    "name": "Keshav Jha",
+    "occupation": "Student",
+    "description": "I eat, sleep and code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Keshav!. I am an undergraduate student pursuing my bachelor's in Computer Science from sathyabama institute of science and technology, Chennai, India. I've been coding for over 2 years now. I've worked both on personal as well as open source projects and built some amazing things. I like solving problems with code, contribute to open source projects, and share my knowledge with others by writing technical blogs on topics related to the web and android development.",
+    "contactmessage": "Get in touch with me",
+    "email": "keshavjhaa2678@gmail.com",
+    "phone": "+91 8384065652",
+    "address": {
+      "street": "14/14, sec-82",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zip": "201304"
+    },
+    "resumedownload": "https://pdfhost.io/v/2Cxly46k4_Keshavs_Resumepdf.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/keshavjha007/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/keshav304",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/keshavkumar2678",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sathyabama Institute of Science and Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2019-2023",
+        "description": "Currently in Sophmore year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Build With Let's Upgrade",
+        "title": "Open source contributer",
+        "years": "August 2020 - October 2020",
+        "description": "Designed and devloped the frontend of a online job portal with HTML, CSS, and JavaScript."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Opportunity Tracker (React JS, NodeJs, ExpressJs, MongoDB)",
+        "category": "",
+        "image": "opp.png",
+        "url": "https://github.com/keshav304/opp-tracker"
+      },
+      {
+        "title": "Memestream (React JS, MaterialUI, NodeJs, ExpressJs, MongoDB)",
+        "category": "",
+        "image": "xmeme.png",
+        "url": "https://memestreak.vercel.app/"
+      },
+      {
+        "title": "Job-Portal (HTML,CSS,JavaScript)",
+        "category": "",
+        "image": "jobportal.png",
+        "url": "https://github.com/keshav304/ONLINE-JOB-PORTAL"
+      }
+    ]
+  }
+  
+}
