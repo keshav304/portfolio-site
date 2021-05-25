@@ -10,7 +10,7 @@ const Header = ({ data }) => {
     var networks = data.social.map(function (network) {
       return (
         <li  key={network.name}>
-          <a target="_blank" href={network.url}>
+          <a target="_blank" rel="noreferrer" href={network.url}>
             <i className={network.className}></i>
           </a>
         </li>
@@ -69,7 +69,7 @@ const Header = ({ data }) => {
           <ul className="social">
           {networks}
           <li key="hackerrank">
-          <a target="_blank" href={"https://www.hackerrank.com/keshavjhaa2678"}>
+          <a target="_blank" rel="noreferrer" href={"https://www.hackerrank.com/keshavjhaa2678"}>
              <img style={{backgroundColor:"white"}} src={hackerrank}/>
           </a>
         </li>

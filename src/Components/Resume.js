@@ -50,15 +50,7 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    // var skills = data.skills.map(function (skills) {
-    //   var className = "bar-expand " + skills.name.toLowerCase();
-    //   return (
-    //     <li key={skills.name}>
-    //       <span style={{ width: skills.level }} className={className}></span>
-    //       <em>{skills.name}</em>
-    //     </li>
-    //   );
-    // });
+
   }
 
   return (
@@ -97,34 +89,34 @@ const Resume = ({ data }) => {
         <div className="nine columns main-col">
           <div className="skills languages">
             <div>Languages</div>
-            <img src={python} />
-            <img src={javascript} />
-            <img src={html} />
-            <img src={css} />
-            <img src={cplusplus} />
-            <img src={kotlin} />
+            <img alt="python" src={python} />
+            <img alt="javascript" src={javascript} />
+            <img alt="html" src={html} />
+            <img alt="css" src={css} />
+            <img alt="cplusplus" src={cplusplus} />
+            <img alt="kotlin" src={kotlin} />
           </div>
           <div className="skills frameworks">
             <div>Frameworks</div>
-            <img src={reactjs} />
-            <img src={nodejs} />
-            <img src={expressjs} />
-            <img src={android} />
-            <img src={flask} />
+            <img alt="reactjs" src={reactjs} />
+            <img alt="nodejs" src={nodejs} />
+            <img alt="expressjs" src={expressjs} />
+            <img alt="android" src={android} />
+            <img alt="flask" src={flask} />
           </div>
           <div className="skills platforms">
             <div>Platforms</div>
-            <img src={linux} />
-            <img src={github} />
-            <img src={heroku} />
-            <img src={vercel} />
+            <img alt="linux" src={linux} />
+            <img alt="github" src={github} />
+            <img alt="heroku" src={heroku} />
+            <img alt="vercel" src={vercel} />
           </div>
           <div className="skills tools">
             <div>Tools</div>
-            <img src={git} />
-            <img src={mysql} />
-            <img src={sqlite} />
-            <img src={mongodb} />
+            <img alt="git" src={git} />
+            <img alt="mysql" src={mysql} />
+            <img alt="sqlite" src={sqlite} />
+            <img alt="mongodb" src={mongodb} />
           </div>
         </div>
       </div>
