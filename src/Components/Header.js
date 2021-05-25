@@ -3,8 +3,6 @@ import TypeWriter from "react-typewriter";
 import hackerrank from "../skills/hackerrank.svg";
 const Header = ({ data }) => {
   if (data) {
-    var name = data.name;
-
     var networks = data.social.map(function (network) {
       return (
         <li  key={network.name}>
@@ -58,7 +56,7 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}` : null}</TypeWriter>
+            <TypeWriter typing={0.5}>I'm Keshav Jha</TypeWriter>
           </h1>
           <h3>
             I am a student and a software developer

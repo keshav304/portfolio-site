@@ -1,8 +1,5 @@
 {
   "main": {
-    "name": "Keshav Jha",
-    "occupation": "Student",
-    "description": "I eat, sleep and code",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Keshav!. I am an undergraduate student pursuing my bachelor's in Computer Science from sathyabama institute of science and technology, Chennai, India. I've been coding for over 2 years now. I've worked both on personal as well as open source projects and built some amazing things. I like solving problems with code, contribute to open source projects, and share my knowledge with others by writing technical blogs on topics related to the web and android development.",
     "contactmessage": "Get in touch with me",
