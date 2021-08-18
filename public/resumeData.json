@@ -55,7 +55,7 @@
         "title": "Opportunity Tracker (React JS, NodeJs, ExpressJs, MongoDB)",
         "category": "",
         "image": "opp.png",
-        "url": "https://github.com/keshav304/opp-tracker"
+        "url": "http://opptracker.netlify.app/"
       },
       {
         "title": "Memestream (React JS, MaterialUI, NodeJs, ExpressJs, MongoDB)",
