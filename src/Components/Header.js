@@ -46,6 +46,11 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
+            <a target="_blank" rel="noreferrer" href="https://rylexr2678.hashnode.dev/">
+              Blog
+            </a>
+          </li>
+          <li>
             <a className="smoothscroll" href="#contact">
               Contact
             </a>

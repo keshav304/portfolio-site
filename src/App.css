@@ -13,3 +13,34 @@
 .skills > img {
   margin-right: 10px;
 }
+.languages > img {
+  height: 50px;
+}
+.frameworks > img {
+  height: 50px;
+}
+.platforms > img {
+  height: 50px;
+}
+.tools > img {
+  height: 50px;
+}
+.projects {
+  font: 18px/24px 'opensans-bold', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.projectname { 
+  text-align: center;
+  margin-top: 8px;
+  text-decoration: underline 2px #11ABB0;
+  text-underline-position: under;
+  text-underline-offset: 6px;
+}
+.githubprojects {
+  height: 211px;
+  width: 236px;
+}

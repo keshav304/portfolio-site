@@ -42,32 +42,48 @@
     ],
     "work": [
       {
-        "company": "Build With Let's Upgrade",
-        "title": "Open source contributer",
-        "years": "August 2020 - October 2020",
-        "description": "Designed and devloped the frontend of a online job portal with HTML, CSS, and JavaScript."
+        "company": "Tekie",
+        "title": "Frontend Devloper - Intern",
+        "years": "September 2020 - Present",
+        "description": "Work on student & mentor management system and main site of tekie with React and GraphQL"
+      },
+      {
+        "company": "NoDoubt",
+        "title": "Full Stack Developer - Intern",
+        "years": "June 2021 - august 2021",
+        "description": "Worked in team responsible for devloping a doubt asking platform with Reactjs, Nodejs, MongoDB and AWS"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Opportunity Tracker (React JS, NodeJs, ExpressJs, MongoDB)",
+        "name": "Opportunity Tracker",
+        "title": "React JS, NodeJs, ExpressJs, MongoDB",
         "category": "",
         "image": "opp.png",
         "url": "http://opptracker.netlify.app/"
       },
       {
-        "title": "Memestream (React JS, MaterialUI, NodeJs, ExpressJs, MongoDB)",
+        "name": "Memestream",
+        "title": "React JS, MaterialUI, NodeJs, ExpressJs, MongoDB",
         "category": "",
         "image": "xmeme.png",
         "url": "https://memestreak.vercel.app/"
       },
       {
-        "title": "Job-Portal (HTML,CSS,JavaScript)",
+        "name": "Job-Portal",
+        "title": "HTML,CSS,JavaScript",
         "category": "",
         "image": "jobportal.png",
         "url": "https://github.com/keshav304/ONLINE-JOB-PORTAL"
+      },
+      {
+        "name": "other projects",
+        "title": "github.com/keshav304",
+        "category": "",
+        "image": "github.png",
+        "url": "https://github.com/keshav304"
       }
     ]
   }
