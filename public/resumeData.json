@@ -41,11 +41,17 @@
       }
     ],
     "work": [
+       {
+        "company": "PersonifyXP",
+        "title": "Frontend Devloper",
+        "years": "April 2022 - Present",
+        "description": "Developed Tracking and Personalization scripts to track anonymous user data to personalize the site to improve the user experience"
+      },
       {
         "company": "Tekie",
         "title": "Frontend Devloper - Intern",
-        "years": "September 2020 - Present",
-        "description": "Work on student & mentor management system and landing page of tekie with React, styed Component, scss, Ant Design and GraphQL"
+        "years": "September 2021 - March 2022",
+        "description": "Worked on student & mentor management system and landing page of tekie with React, styed Component, scss, Ant Design and GraphQL"
       },
       {
         "company": "NoDoubt",
