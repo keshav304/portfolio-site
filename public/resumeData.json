@@ -44,19 +44,19 @@
         "company": "PersonifyXP",
         "title": "Frontend Devloper",
         "years": "April 2022 - Present",
-        "description": "Developed Tracking and Personalization scripts to track anonymous user data to personalize the site to improve the user experience"
+        "description": "Currently at Personify, I focus on creating valuable plugins and apps for headless CMS platforms. These tools help track activities and offer personalized suggestions to customers. My work involves using ReactJS, TypeScript, and plain JavaScript to ensure smooth performance. I've also designed a user-friendly and secure dashboard displaying data through graphs and tables for clients. My approach includes using Vue.js and JavaScript. Additionally, I write JavaScript scripts that directly run on clients' e-commerce platforms, aiding in tracking and personalization for anonymous users who haven't yet created their accounts."
       },
       {
         "company": "Tekie",
         "title": "Frontend Devloper - Intern",
         "years": "September 2021 - March 2022",
-        "description": "Worked on student & mentor management system and landing page of tekie with React, styed Component, scss, Ant Design and GraphQL"
+        "description": "During my tenure at Tekie, an education technology platform, I contributed to enhancing their EdTech platform for children. My work included improving the main learning platform used by kids, focusing on features like classes, quizzes, and homework, which I made engaging with animations. I also worked on their content creation platform, empowering mentors to craft enjoyable learning material. Additionally, I contributed to developing the student and mentor management dashboard, handling aspects like classes, schedules, and payments. To ensure the platform worked seamlessly, I used ReactJS, JavaScript, GraphQL, and Redux for the frontend. On the backend, I utilized Node.js, Express.js, and MongoDB to work on the API and create cron jobs for notifying mentors, students, and parents about upcoming classes, payments, and assignments."
       },
       {
         "company": "NoDoubt",
         "title": "Full Stack Developer - Intern",
         "years": "June 2021 - august 2021",
-        "description": "Worked in team responsible for devloping a doubt asking platform with Reactjs, Nodejs, MongoDB and AWS"
+        "description": "During my time at No Doubt, a question-asking platform similar to Stack Overflow, I led the creation of two important features. One such feature involved allowing users to include various types of media like images, videos, PDFs, and audio in their questions. I also worked on an editing feature for these questions, enabling users to add, remove, or change media content. On the technical side, I used Node.js, Express.js, and MongoDB. We securely stored user-submitted media in AWS S3 and managed other essential information in the database."
       }
     ]
   },
