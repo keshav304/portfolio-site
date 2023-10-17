@@ -64,7 +64,7 @@ const Header = ({ data }) => {
             <TypeWriter typing={0.5}>I'm Keshav Jha</TypeWriter>
           </h1>
           <h3>
-            I am a student and a software developer
+            I'm a software engineer and a lifelong learner
           </h3>
           <hr />
           <ul className="social">
