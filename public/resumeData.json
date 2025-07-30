@@ -1,16 +1,20 @@
 {
   "main": {
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Keshav Jha, a passionate full-stack developer with two years of professional experience in software engineering. My journey in this industry has allowed me to become well-versed in both front-end and back-end development, enabling me to create robust and efficient web applications. I thrive on the challenges presented by complex projects and enjoy crafting intuitive user interfaces using technologies like React and Vue. On the back end, I excel in designing scalable server-side architectures using Node.js, python, and AWS. My insatiable curiosity drives me to constantly learn and stay up to date with emerging technologies. With a problem-solving mindset and a commitment to delivering high-quality software solutions, I'm always ready to take on new projects and push the boundaries of innovation in software development.",
+    "bio": "I’m a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.
+
+I enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.
+
+I’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact.",
     "contactmessage": "Get in touch with me",
     "email": "keshav2678@gmail.com",
     "address": {
-      "street": "14/14, sec-82",
+      "street": "sec-82",
       "city": "Noida",
       "state": "Uttar Pradesh",
       "zip": "201304"
     },
-    "resumedownload": "https://drive.google.com/file/d/1IFglzK4wxnRJSOqaIIMmdsh4lwYf5KlK/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1WLRxuFG1dOOlfKKapWecS4CEpknGRPYC/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -40,10 +44,16 @@
       }
     ],
     "work": [
+              {
+          "company": "Dunnhyumby",
+          "title": "Full Stack Engineer (G2)",
+          "years": "October 2024 - Present",
+          "description": "At Dunnhumby, I worked as a Full Stack Developer on a large-scale customer targeting platform. My role involved building and maintaining scalable web applications, collaborating with cross-functional teams, and ensuring the platform was reliable, performant, and easy to use. I contributed across the stack using technologies like React, Node.js, and GCP, and played a key role in improving system quality, developer experience, and overall product stability."
+        }
         {
           "company": "mFilterIT",
           "title": "Software Engineer",
-          "years": "October 2023 - Present",
+          "years": "October 2023 - September 2024",
           "description": "At mFilterIT, I actively develop solutions for ad-tech platforms to prevent bot traffic and safeguard client data. My role spans various projects involving data analytics, infrastructure scaling, and cross-platform integration. I work closely with different teams to implement high-performance solutions using React, Node.js, Express, Python, and AWS. Additionally, I contribute to scaling the infrastructure to manage large volumes of data and traffic, ensuring system reliability and enhancing performance."
         }
 ,
@@ -82,13 +92,6 @@
         "category": "",
         "image": "xmeme.png",
         "url": "https://memestreak.vercel.app/"
-      },
-      {
-        "name": "Job-Portal",
-        "title": "HTML,CSS, JavaScript",
-        "category": "",
-        "image": "jobportal.png",
-        "url": "https://github.com/keshav304/ONLINE-JOB-PORTAL"
       },
       {
         "name": "other projects",
