@@ -1,101 +1,100 @@
 {
-  "main": {
-    "image": "profilepic.jpg",
-"bio": "I am a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.\nI enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.\nI’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact."
-    "contactmessage": "Get in touch with me",
-    "email": "keshav2678@gmail.com",
-    "address": {
-      "street": "sec-82",
-      "city": "Noida",
-      "state": "Uttar Pradesh",
-      "zip": "201304"
+    "main": {
+        "image": "profilepic.jpg",
+        "bio": "I am a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.\nI enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.\nI’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact.",
+        "contactmessage": "Get in touch with me",
+        "email": "keshav2678@gmail.com",
+        "address": {
+            "street": "sec-82",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "zip": "201304"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1WLRxuFG1dOOlfKKapWecS4CEpknGRPYC/view?usp=sharing",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/keshavjha007/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/keshav304",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/keshavkumar2678",
+                "className": "fa fa-twitter"
+            }
+        ]
     },
-    "resumedownload": "https://drive.google.com/file/d/1WLRxuFG1dOOlfKKapWecS4CEpknGRPYC/view?usp=sharing",
-    "social": [
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/keshavjha007/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/keshav304",
-        "className": "fa fa-github"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/keshavkumar2678",
-        "className": "fa fa-twitter"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "school": "Sathyabama Institute of Science and Technology",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "2019-2023",
-        "description": "Graduated with 9.0 CGPA"
-      }
-    ],
-    "work": [
-              {
-          "company": "Dunnhyumby",
-          "title": "Full Stack Engineer (G2)",
-          "years": "October 2024 - Present",
-          "description": "At Dunnhumby, I worked as a Full Stack Developer on a large-scale customer targeting platform. My role involved building and maintaining scalable web applications, collaborating with cross-functional teams, and ensuring the platform was reliable, performant, and easy to use. I contributed across the stack using technologies like React, Node.js, and GCP, and played a key role in improving system quality, developer experience, and overall product stability."
-        },
-        {
-          "company": "mFilterIT",
-          "title": "Software Engineer",
-          "years": "October 2023 - September 2024",
-          "description": "At mFilterIT, I actively developed solutions for ad-tech platforms to prevent bot traffic and safeguard client data. My role spans various projects involving data analytics, infrastructure scaling, and cross-platform integration. I work closely with different teams to implement high-performance solutions using React, Node.js, Express, Python, and AWS. Additionally, I contribute to scaling the infrastructure to manage large volumes of data and traffic, ensuring system reliability and enhancing performance."
-        },
-       {
-        "company": "PersonifyXP",
-        "title": "Frontend Developer",
-        "years": "April 2022 - Sep 2023",
-        "description": "At Personify, I focused on creating valuable plugins and apps for headless CMS platforms. These tools help track activities and offer personalized suggestions to customers. My work involves using ReactJS, TypeScript, and plain JavaScript to ensure smooth performance. I've also designed a user-friendly and secure dashboard displaying data through graphs and tables for clients. My approach includes using Vue.js and JavaScript. Additionally, I write JavaScript scripts that directly run on clients' e-commerce platforms, aiding in tracking and personalization for anonymous users who haven't yet created their accounts."
-      },
-      {
-        "company": "Tekie",
-        "title": "Fullstack Developer - Intern",
-        "years": "September 2021 - March 2022",
-        "description": "During my tenure at Tekie, an education technology platform, I contributed to enhancing their EdTech platform for children. My work included improving the main learning platform used by kids, focusing on features like classes, quizzes, and homework, which I made engaging with animations. I also worked on their content creation platform, empowering mentors to craft enjoyable learning material. Additionally, I contributed to developing the student and mentor management dashboard, handling aspects like classes, schedules, and payments. To ensure the platform worked seamlessly, I used ReactJS, JavaScript, GraphQL, and Redux for the front end. On the backend, I utilized Node.js, Express.js, and MongoDB to work on the API and create cron jobs for notifying mentors, students, and parents about upcoming classes, payments, and assignments."
-      },
-      {
-        "company": "NoDoubt",
-        "title": "Full Stack Developer - Intern",
-        "years": "June 2021 - August 2021",
-        "description": "During my time at No Doubt, a question-asking platform similar to Stack Overflow, I led the creation of two important features. One such feature involved allowing users to include various types of media like images, videos, PDFs, and audio in their questions. I also worked on an editing feature for these questions, enabling users to add, remove, or change media content. On the technical side, I used Node.js, Express.js, and MongoDB. We securely stored user-submitted media in AWS S3 and managed other essential information in the database."
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "name": "Opportunity Tracker",
-        "title": "React JS, NodeJs, ExpressJs, MongoDB",
-        "category": "",
-        "image": "opp.png",
-        "url": "http://opptracker.netlify.app/"
-      },
-      {
-        "name": "Memestream",
-        "title": "React JS, MaterialUI, NodeJs, ExpressJs, MongoDB",
-        "category": "",
-        "image": "xmeme.png",
-        "url": "https://memestreak.vercel.app/"
-      },
-      {
-        "name": "other projects",
-        "title": "github.com/keshav304",
-        "category": "",
-        "image": "github.png",
-        "url": "https://github.com/keshav304"
-      }
-    ]
-  }
-  
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+                "school": "Sathyabama Institute of Science and Technology",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "2019-2023",
+                "description": "Graduated with 9.0 CGPA"
+            }
+        ],
+        "work": [
+            {
+                "company": "Dunnhyumby",
+                "title": "Full Stack Engineer (G2)",
+                "years": "October 2024 - Present",
+                "description": "At Dunnhumby, I worked as a Full Stack Developer on a large-scale customer targeting platform. My role involved building and maintaining scalable web applications, collaborating with cross-functional teams, and ensuring the platform was reliable, performant, and easy to use. I contributed across the stack using technologies like React, Node.js, and GCP, and played a key role in improving system quality, developer experience, and overall product stability."
+            },
+            {
+                "company": "mFilterIT",
+                "title": "Software Engineer",
+                "years": "October 2023 - September 2024",
+                "description": "At mFilterIT, I actively developed solutions for ad-tech platforms to prevent bot traffic and safeguard client data. My role spans various projects involving data analytics, infrastructure scaling, and cross-platform integration. I work closely with different teams to implement high-performance solutions using React, Node.js, Express, Python, and AWS. Additionally, I contribute to scaling the infrastructure to manage large volumes of data and traffic, ensuring system reliability and enhancing performance."
+            },
+            {
+                "company": "PersonifyXP",
+                "title": "Frontend Developer",
+                "years": "April 2022 - Sep 2023",
+                "description": "At Personify, I focused on creating valuable plugins and apps for headless CMS platforms. These tools help track activities and offer personalized suggestions to customers. My work involves using ReactJS, TypeScript, and plain JavaScript to ensure smooth performance. I've also designed a user-friendly and secure dashboard displaying data through graphs and tables for clients. My approach includes using Vue.js and JavaScript. Additionally, I write JavaScript scripts that directly run on clients' e-commerce platforms, aiding in tracking and personalization for anonymous users who haven't yet created their accounts."
+            },
+            {
+                "company": "Tekie",
+                "title": "Fullstack Developer - Intern",
+                "years": "September 2021 - March 2022",
+                "description": "During my tenure at Tekie, an education technology platform, I contributed to enhancing their EdTech platform for children. My work included improving the main learning platform used by kids, focusing on features like classes, quizzes, and homework, which I made engaging with animations. I also worked on their content creation platform, empowering mentors to craft enjoyable learning material. Additionally, I contributed to developing the student and mentor management dashboard, handling aspects like classes, schedules, and payments. To ensure the platform worked seamlessly, I used ReactJS, JavaScript, GraphQL, and Redux for the front end. On the backend, I utilized Node.js, Express.js, and MongoDB to work on the API and create cron jobs for notifying mentors, students, and parents about upcoming classes, payments, and assignments."
+            },
+            {
+                "company": "NoDoubt",
+                "title": "Full Stack Developer - Intern",
+                "years": "June 2021 - August 2021",
+                "description": "During my time at No Doubt, a question-asking platform similar to Stack Overflow, I led the creation of two important features. One such feature involved allowing users to include various types of media like images, videos, PDFs, and audio in their questions. I also worked on an editing feature for these questions, enabling users to add, remove, or change media content. On the technical side, I used Node.js, Express.js, and MongoDB. We securely stored user-submitted media in AWS S3 and managed other essential information in the database."
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "name": "Opportunity Tracker",
+                "title": "React JS, NodeJs, ExpressJs, MongoDB",
+                "category": "",
+                "image": "opp.png",
+                "url": "http://opptracker.netlify.app/"
+            },
+            {
+                "name": "Memestream",
+                "title": "React JS, MaterialUI, NodeJs, ExpressJs, MongoDB",
+                "category": "",
+                "image": "xmeme.png",
+                "url": "https://memestreak.vercel.app/"
+            },
+            {
+                "name": "other projects",
+                "title": "github.com/keshav304",
+                "category": "",
+                "image": "github.png",
+                "url": "https://github.com/keshav304"
+            }
+        ]
+    }
 }
