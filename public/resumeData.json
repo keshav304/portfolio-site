@@ -2,9 +2,7 @@
   "main": {
     "image": "profilepic.jpg",
     "bio": "I’m a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.
-
 I enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.
-
 I’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact.",
     "contactmessage": "Get in touch with me",
     "email": "keshav2678@gmail.com",
@@ -54,7 +52,7 @@ I’m always keen on solving real-world problems with clean, efficient solutions
           "company": "mFilterIT",
           "title": "Software Engineer",
           "years": "October 2023 - September 2024",
-          "description": "At mFilterIT, I actively develop solutions for ad-tech platforms to prevent bot traffic and safeguard client data. My role spans various projects involving data analytics, infrastructure scaling, and cross-platform integration. I work closely with different teams to implement high-performance solutions using React, Node.js, Express, Python, and AWS. Additionally, I contribute to scaling the infrastructure to manage large volumes of data and traffic, ensuring system reliability and enhancing performance."
+          "description": "At mFilterIT, I actively developed solutions for ad-tech platforms to prevent bot traffic and safeguard client data. My role spans various projects involving data analytics, infrastructure scaling, and cross-platform integration. I work closely with different teams to implement high-performance solutions using React, Node.js, Express, Python, and AWS. Additionally, I contribute to scaling the infrastructure to manage large volumes of data and traffic, ensuring system reliability and enhancing performance."
         }
 ,
        {
