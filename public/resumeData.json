@@ -1,9 +1,7 @@
 {
   "main": {
     "image": "profilepic.jpg",
-    "bio": "I am a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.
-I enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.
-I’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact.",
+"bio": "I am a full-stack engineer with experience building data-intensive applications across ad-tech, fintech, and retail analytics. Over the last few years, I’ve worked on products that process millions of data points, from a chargeback management system for payment aggregators to campaign optimization platforms for global brands.\nI enjoy working across the stack, whether it’s designing scalable backend services, developing intuitive frontend interfaces, or optimizing cloud infrastructure on AWS and GCP. My toolkit includes JavaScript, TypeScript, React, Node.js, Python, and cloud-native technologies.\nI’m always keen on solving real-world problems with clean, efficient solutions and collaborating with teams that value ownership, transparency, and impact."
     "contactmessage": "Get in touch with me",
     "email": "keshav2678@gmail.com",
     "address": {
